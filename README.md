@@ -1,5 +1,5 @@
 This function downloads a list of tickers of selected index from stooq.com
-This function recquires only pandas library [https://pandas.pydata.org/]
+Pandas library is recquired - > [https://pandas.pydata.org/]
 
 Parameters
 ----------
