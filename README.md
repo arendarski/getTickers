@@ -5,7 +5,7 @@ Parameters
 ----------
 - index : string, 
   - List of potential indices ['^dji', '^spx', '^ndq', '^DAX', 'WIG20', ], 
-  - Please check if selected index has this type of page as DAX : https://stooq.com/q/i/?s=^dax
+  - Please check if selected index has a 'components' tab as e.g. DAX : https://stooq.com/q/i/?s=^dax
 - data_source : string
   - Select: ['yahoo','stooq']
   - Select the source of historical data to return tickers appropriately, i.e. BAC or BAC.US
